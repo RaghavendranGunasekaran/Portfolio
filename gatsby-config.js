@@ -2,9 +2,9 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Brittany Chiang',
+    title: 'Raghavendran',
     description:
-      'Brittany Chiang is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
+      'I’m a A Full Stack Developer who specializes in building(and occasionally designing) both Mobile and Web Techonologies across the whole stack of ASP .NET MVC, MS SQL Server, Web API for web & Windows apps and Flutter for Mobile apps .',
     siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@bchiang7',
@@ -26,7 +26,7 @@ module.exports = {
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
         display: 'minimal-ui',
-        icon: 'src/images/logo.png',
+        icon: 'src/images/logoR.png',
       },
     },
     `gatsby-plugin-offline`,
